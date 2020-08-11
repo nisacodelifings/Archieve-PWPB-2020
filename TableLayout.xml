@@ -1,89 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/tableLayout1"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:padding="10dp"
-    android:shrinkColumns="*"
-    android:stretchColumns="*" >
-
-    <!-- Baris 1 Kolom 1 -->
-
-    <TableRow
-        android:id="@+id/tableRow1"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center_horizontal" >
-
-        <TextView
-            android:id="@+id/textView9"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:text=" Contoh Login"
-            android:textSize="24dp"
-            android:textStyle="bold" >
-        </TextView>
-    </TableRow>
-
-    <!--Baris 2 Kolom 2 -->
-
-    <TableRow
-        android:id="@+id/tableRow2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" >
-
-        <TextView
-            android:id="@+id/textView1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="UserName"
-            android:textSize="16dp" />
-
-        <EditText
-            android:id="@+id/editText1"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10" >
-        </EditText>
-    </TableRow>
-
-    <!-- Baris 3 Kolom 3 -->
-
-    <TableRow
-        android:id="@+id/tableRow3"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" >
-
-        <TextView
-            android:id="@+id/textView2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Password"
-            android:textSize="16dp" />
-
-        <EditText
-            android:id="@+id/editText2"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:inputType="textPassword" >
-        </EditText>
-    </TableRow>
-
-    <!-- Baris 4 Kolom 1 -->
-
-    <TableRow
-        android:id="@+id/tableRow4"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="right" >
-
-        <Button
-            android:id="@+id/button1"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Masuk" />
-    </TableRow>
-
+ android:layout_width="match_parent"
+ android:layout_height="match_parent"
+ android:stretchColumns="1">
+ <TableRow
+ android:background="#22ff">
+ <TextView
+ android:layout_column="1"
+ android:text="Open..."
+ android:padding="3dip" />
+ <TextView
+ android:text="Ctrl-O"
+ android:gravity="right"
+ android:padding="3dip" />
+ </TableRow>
+ <TableRow android:background="#22ff">
+ <TextView
+ android:layout_column="1"
+ android:text="Save..."
+ android:padding="3dip" />
+ <TextView
+ android:text="Ctrl-S"
+ android:gravity="right"
+ android:padding="3dip" />
+ </TableRow>
+ <TableRow android:background="#22ff">
+ <TextView
+ android:layout_column="1"
+ android:text="Save As..."
+ android:padding="3dip" />
+ <TextView
+ android:text="Ctrl-Shift-S"
+ android:gravity="right"
+ android:padding="3dip" />
+ </TableRow>
+ <View
+ android:layout_height="2dip"
+ android:background="#FF909090" />
+<TableRow android:background="#ffff00">
+ <TextView
+ android:text="X"
+ android:padding="3dip" />
+ <TextView
+ android:text="Import..."
+ android:padding="3dip" />
+ </TableRow>
+ <TableRow android:background="#ffff00">
+ <TextView
+ android:text="X"
+ android:padding="3dip" />
+ <TextView
+ android:text="Export..."
+ android:padding="3dip" />
+ <TextView
+ android:text="Ctrl-E"
+ android:gravity="right"
+ android:padding="3dip" />
+ </TableRow>
+ <View
+ android:layout_height="2dip"
+ android:background="#FF909090" />
+ <TableRow android:background="#aaf">
+ <TextView
+ android:layout_column="1"
+ android:text="Quit"
+ android:padding="3dip" />
+ </TableRow>
 </TableLayout>
