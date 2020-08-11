@@ -20,4 +20,4 @@
 ![](https://res.cloudinary.com/codelifings/image/upload/v1597150747/Screenshot_2020-08-11-19-52-49-729_com.my.newproject9_zc1cfm.png)
 
 ## FrameLayout2
-1[](https://res.cloudinary.com/codelifings/image/upload/v1597150775/Screenshot_2020-08-11-19-58-56-950_com.my.newproject9_rcbjmx.png)
+![](https://res.cloudinary.com/codelifings/image/upload/v1597150775/Screenshot_2020-08-11-19-58-56-950_com.my.newproject9_rcbjmx.png)
