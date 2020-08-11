@@ -16,5 +16,5 @@
 ## chapter 6
 ![](https://res.cloudinary.com/codelifings/image/upload/v1596436579/Screenshot_2020-08-03-13-33-02-905_com.my.newproject8_u4m5mh.png)
 
-##TableLayout
+## TableLayout
 ![](https://res.cloudinary.com/codelifings/image/upload/v1597124096/Tak_berjudul1_20200811123252_wshmsj.png)
