@@ -16,11 +16,12 @@
 ## chapter 6
 ![](https://res.cloudinary.com/codelifings/image/upload/v1596436579/Screenshot_2020-08-03-13-33-02-905_com.my.newproject8_u4m5mh.png)
 
-## FrameLayout1
+## Chapter 7
+### FrameLayout1
 ![](https://res.cloudinary.com/codelifings/image/upload/v1597150747/Screenshot_2020-08-11-19-52-49-729_com.my.newproject9_zc1cfm.png)
 
-## FrameLayout2
+### FrameLayout2
 ![](https://res.cloudinary.com/codelifings/image/upload/v1597150775/Screenshot_2020-08-11-19-58-56-950_com.my.newproject9_rcbjmx.png)
 
-## TableLayout
+### TableLayout
 ![](https://res.cloudinary.com/codelifings/image/upload/v1597151870/Tak_berjudul1_vqrosz.png)
